@@ -16,13 +16,19 @@ EDA 软件(通常在 EDA 软件的官网上也会提供元件库):
 
 - <https://www.autodesk.com/products/eagle/overview>
 
-  - <https://www.element14.com/community/community/eagle/eagle_cad_libraries>
+  - <https://www.element14.com/community/community/eagle/eagle_cad_libraries> - 元件库
+  - http://sparkle.tribbeck.com/eaglesearch2/index.php - 元件库
+  - http://www.diymodules.org/home - 元件库、模块
 
   在 9.x 版本中 Autodesk 似乎不会在官网中直接为 EAGLE 提供 library，而是将这以功能集成到了软件中。
 
 - <http://kicad-pcb.org/>
 
   - <https://www.digikey.com.cn/zh/resources/design-tools/kicad?utm_source=online&utm_medium=vanity&utm_campaign=kicad>
+  
+- [立创 EDA](https://lceda.cn/) 和 [EasyEda](https://easyeda.com/): 前者是国内版，后者是海外版
+
+
 
 元件库和工具:
 
