@@ -22,7 +22,7 @@ EDA 软件(通常在 EDA 软件的官网上也会提供元件库):
 
   在 9.x 版本中 Autodesk 似乎不会在官网中直接为 EAGLE 提供 library，而是将这以功能集成到了软件中。
 
-- <http://kicad-pcb.org/>
+- <http://kicad.org/>
 
   - <https://www.digikey.com.cn/zh/resources/design-tools/kicad?utm_source=online&utm_medium=vanity&utm_campaign=kicad>
   
